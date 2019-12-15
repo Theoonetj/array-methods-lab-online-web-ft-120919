@@ -1,6 +1,8 @@
-
+famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+element = "john"
 
 def using_include(array, element)
+  
 
 end
 
